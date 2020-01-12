@@ -1,0 +1,1 @@
+create "git_login_user_name" "git_login_password" "new_repo_name" "local_proj_directory" "git_nick_name" "public"
